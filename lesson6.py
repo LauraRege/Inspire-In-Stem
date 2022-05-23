@@ -23,3 +23,5 @@ platenumber = ('ABCD','KLMN','RSTV')
 #removing an item from a list
 motorcycle.remove('Honda')
 print(motorcycle)
+fruits('mangoes','oranges','bananas')
+print(fruits[-1])
