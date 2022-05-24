@@ -27,7 +27,15 @@ Loops
      for
      
 ## Week 1 : Introduction to Python
+Day 1 : lesson on initializing dictionaries
+       
+       starting empty dictionaries
+       adding pairs
+       modifying values
 
+Day 2 : Lesson on for loops
+
+squares[]
 ## Week 2 : Electronics for Innovators
 
 ## Week 3 : Introduction to Robotics 
