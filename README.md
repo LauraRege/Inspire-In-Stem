@@ -7,6 +7,16 @@ Add a link to download VS code
 
 Add a link to download Git for windows
 
+### Git commands
+git add *
+git add lesson4.py (for example)
+git commit --m "lesson on ..."
+git branch -m main
+git config --global user.name = "Laura Rege"
+git config --global user.email = "rege.laur@gmail.com"
+git remote add main .......
+git push main
+
 ![Lesson 1 ](./images/lesson1.PNG) 
 
 strings
