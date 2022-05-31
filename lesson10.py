@@ -1,4 +1,4 @@
-#! /user/bin/python
+er/bin/python#! /us
 
 #########################################################
 #                  Dictionaries
@@ -33,9 +33,20 @@ vehicle = {'type':'toyota','plate number':'ABCD'}
 #accessing values in a dictionary
 #print(vehicle['type']) #You can acces the value of an element inside a dictionary using the key
 person = {'name':'Laura'}
+person['age']='18'
+person['favfood']='ugali'
 id_number = {'number':'20774796'}
 gender = {'gend':'female'}
 phone_number = {'number':'0741724577'}
-print(person['name'], id_number['number'],gender['gend'], phone_number['number'])
- 
- 
+print(person['name'], ['number'],gender['gend'], phone_number['number'])
+
+print(person.get["'password','the','location' key is non-existent"])
+#using get to access a value in the dictionary
+
+
+mary_fav_food = ['beef','chicken','vegetable']
+jane_fav_food= ['rice','ugali','potatoes']
+
+person = {
+        'mary':['fav_food':'beef']
+}
