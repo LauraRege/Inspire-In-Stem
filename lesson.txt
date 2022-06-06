@@ -1,0 +1,16 @@
+This is a normal text file
+Learning python is fun
+Today is a weekday
+ 
+f = open("lesson.text")
+f = open("lesson",'w')
+
+r  Opens a file for reading (default)
+w  opens a file for writing
+x  creates a new file
+a  opens a file for appending
+t  opens the file in text mode
+b  opens binary mode
++  opens a file for updating(reading and writing)
+
+
