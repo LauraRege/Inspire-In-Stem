@@ -21,6 +21,6 @@ with open("lesson2.txt",'r+w')as f:
 print(f.read())
 f.close()
 
-#openig file
+#opening file
 
 
